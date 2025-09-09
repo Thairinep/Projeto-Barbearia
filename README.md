@@ -12,22 +12,23 @@ CSS3: Estilização e layout responsivo.
 
 O repositório contém os seguintes arquivos e pastas:
 
-.
-├── index.html          # Página inicial do site
-├── contato.html        # Página de contato
-├── produtos.html       # Página de produtos/serviços
-├── style.css           # Estilos principais
-├── style-home.css      # Estilos específicos da página inicial
-├── reset.css           # Reset de estilos padrão do navegador
-├── banner.jpg          # Imagem do banner principal
-├── barba.jpg           # Imagem ilustrativa de barba
-├── beneficios.jpg      # Imagem ilustrativa de benefícios
-├── bg.jpg              # Imagem de fundo
-├── cabelo+barba.jpg    # Imagem ilustrativa de cabelo e barba
-├── cabelo.jpg          # Imagem ilustrativa de cabelo
-├── logo-branco.png     # Logo da barbearia (versão branca)
-├── logo.png            # Logo da barbearia (versão colorida)
-└── utensilios.jpg      # Imagem ilustrativa de utensílios
+
+* index.html         	# Página inicial do site
+* contato.html        # Página de contato
+* produtos.html       # Página de produtos/serviços
+* style.css           # Estilos principais
+* style-home.css      # Estilos específicos da página inicial
+* reset.css           # Reset de estilos padrão do navegador
+* banner.jpg          # Imagem do banner principal
+* barba.jpg           # Imagem ilustrativa de barba
+* beneficios.jpg      # Imagem ilustrativa de benefícios
+* bg.jpg              # Imagem de fundo
+* cabelo+barba.jpg    # Imagem ilustrativa de cabelo e barba
+* cabelo.jpg          # Imagem ilustrativa de cabelo
+* logo-branco.png     # Logo da barbearia (versão branca)
+* logo.png            # Logo da barbearia (versão colorida)
+* utensilios.jpg      # Imagem ilustrativa de utensílios
+
 
 🚀 Como Rodar o Projeto
 
